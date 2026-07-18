@@ -28,7 +28,7 @@ Research Interests: Representation Theory of finite dimensional algebras
  
 
 # 📝 Publications 
-- C. C. Xi and J. B. Zhang, New invariants of stable equivalences of algebras. Preprint, arXiv:2207.10848, 1-20.
+- C. C. Xi and J. B. Zhang, New invariants of stable equivalences of algebras. Mathematische Annalen 394(4) (2026), Article 99.
 [[HTML]](https://arxiv.org/abs/2207.10848)[[Preview]](https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/04.pdf)[[PDF]](/pdf/04.pdf)
 - J. B. Zhang and J. L. Zheng, Extension dimensions of derived and stable equivalent algebras. Journal of Algebra 646 (2024) 17-48.
 [[HTML]](https://doi.org/10.1016/j.jalgebra.2024.01.035)[[Preview]](https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/03.pdf)[[PDF]](/pdf/03.pdf)
